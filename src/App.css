@@ -1,0 +1,52 @@
+body{
+	background: #E8347D;
+	
+}
+
+.App{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+.roww {
+	background-color: seashell;
+	padding: 1% 2%;
+	border: 1px black;
+	border-radius: 5% 5% 8% 8%;
+}
+
+.contaier-icono-author {
+	display: flex;
+	justify-content: space-around;
+}
+
+.cite {
+	font-family: sans-serif;
+	font-style: italic;
+}
+
+.i{
+	color: royalblue;
+} 
+.ButtonChange{
+	display: flex;
+	padding: 4%;
+	
+	justify-content: center;
+}
+
+button{
+	background: royalblue;
+	border: 0;
+	color: white;
+}
+
+
+
+
+
+
+
